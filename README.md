@@ -25,7 +25,7 @@ Clone the repository:
 ```sh
  git clone https://github.com/your-repo/syncora.git
  cd syncora
-
+```
 
 ### Make sure to create a `.env` file with following variables -
 
